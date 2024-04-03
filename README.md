@@ -1,6 +1,6 @@
 # Criação de uma TODO list com React + Vite
 
-## Link do projeto: https://joel-neto.github.io/react-todo-list/
+### Link do projeto: https://joel-neto.github.io/react-todo-list/
 
 Esta aplicação de lista de tarefas é uma ferramenta simples e intuitiva para ajudar a organizar seu dia a dia. Construída utilizando a biblioteca React e o Vite, ela oferece uma experiência de usuário fluida e responsiva. Com a utilização do localStorage, suas tarefas permanecem salvas entre as sessões do navegador, garantindo a persitência dos seus dados.
 
@@ -29,7 +29,10 @@ A aplicação também é responsiva, adaptando-se perfeitamente a dispositivos m
 
 Para começar a usar a aplicação, basta clonar o repositório, instalar as dependências e iniciar o servidor de desenvolvimento:
 
-`git clone [URL do seu repositório]`
-`cd [Nome do seu projeto]`
-`npm install`
-`npm run dev`
+```
+git clone [URL do seu repositório]
+cd [Nome do seu projeto]
+npm install
+npm run dev
+```
+
